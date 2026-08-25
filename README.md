@@ -1,11 +1,3 @@
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/iamnaimul?v=1787638168877"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
-
 # 👋 Hi, I'm Naimul Hassan
 
 ### Teacher • Developer • Technology Enthusiast
