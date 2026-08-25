@@ -88,15 +88,6 @@ A lightweight **offline personal money management application** designed for And
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamnaimul&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Naimul's GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnaimul&layout=compact&hide_border=true" height="165" alt="Most used languages"/>
-</p>
-
----
-
 ## 🎯 What I'm Working On
 
 * 📱 Building lightweight Android applications
